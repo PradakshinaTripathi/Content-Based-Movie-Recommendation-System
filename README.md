@@ -1,6 +1,6 @@
 # Content-Based-Movie-Recommendation-System
 
-
+The Project talks about a Movie Recommendation System (content Based) which works on cosine Similarity. You can enter the movie and choose the top 5 recommended movies which you might also like. The project includes the GUI of the Recommendation System.
 
 Recommendation systems are used to increase user attraction by gaining a better grasp of the user's preferences. These systems have grown in popularity as a result of their capacity to provide users with customised material that is relevant to their interests. Millions of products are listed on e-commerce websites these days, making it nearly impossible to select a product of our choosing. This is where these systems come in handy by immediately proposing the things we want.
 The categories of the algorithm for recommendation systems are – 
